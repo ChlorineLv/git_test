@@ -1,6 +1,7 @@
 ### Markdown语法
 - 完整，简中：http://wowubuntu.com/markdown/index.html
 - 简单，简中：http://wowubuntu.com/markdown/basic.html
+- 摘自简书《Markdown的常用语法(个人总结)》作者ConnorLin：https://www.jianshu.com/p/82e730892d42#fn1
 
 
 # 初始化Git仓库
